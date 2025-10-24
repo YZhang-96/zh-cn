@@ -21,21 +21,19 @@ redirect_from:
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
+- 强化学习
+- 多智能体系统
+- 微分博弈
+- AI4Fusion
   
 
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
+- *2021.04 - 2025.12*, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 上海交通大学 自动化与感知学院, 上海, 博士 
+- *2018.09 - 2021.03*, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 上海交通大学 电子信息与电气工程学院, 上海, 硕士
+- *2018.09 - 2021.03*, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 上海交通大学 电子信息与电气工程学院, 上海, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -46,8 +44,8 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+- `Y. Zhang`, L. Zhang, and Y. Cai, “Value iteration-based cooperative adaptive optimal control for multi-player differential games with incomplete information,” *IEEE/CAA J. Autom. Sinica*, vol. 11, no. 3, pp. 690–697, Mar. 2024. (JCR:Q1,IF:19.2)
+[[网页]](https://ieeexplore.ieee.org/abstract/document/10433377)
 
 </div>
 </div>
@@ -171,4 +169,5 @@ redirect_from:
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+
 
