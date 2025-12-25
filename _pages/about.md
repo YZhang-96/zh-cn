@@ -31,9 +31,9 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2021.04 - 2025.12*, <a href="https://www.sjtu.edu.cn/"><img class="pdf" src="/images/sjtu-vi-badge-reg-red.pdf" width="23pt"></a> 上海交通大学 自动化与感知学院, 上海, 博士 
-- *2018.09 - 2021.03*, <a href="https://www.sjtu.edu.cn/"><img class="pdf" src="/images/sjtu-vi-badge-reg-red.pdf" width="20pt"></a> 上海交通大学 电子信息与电气工程学院, 上海, 硕士
-- *2014.09 - 2018.06*, <a href="https://www.sjtu.edu.cn/"><img class="pdf" src="/images/sjtu-vi-badge-reg-red.pdf" width="20pt"></a> 上海交通大学 电子信息与电气工程学院, 上海, 本科
+- *2021.04 - 2025.12*, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/sjtu-vi-badge-reg-red.pdf" width="23pt"></a> 上海交通大学 自动化与感知学院, 上海, 博士 
+- *2018.09 - 2021.03*, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/sjtu-vi-badge-reg-red.pdf" width="20pt"></a> 上海交通大学 电子信息与电气工程学院, 上海, 硕士
+- *2014.09 - 2018.06*, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/sjtu-vi-badge-reg-red.pdf" width="20pt"></a> 上海交通大学 电子信息与电气工程学院, 上海, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -41,7 +41,7 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/CAA JAS 2024</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - `Y. Zhang`, L. Zhang, and Y. Cai, “Value iteration-based cooperative adaptive optimal control for multi-player differential games with incomplete information,” *IEEE/CAA J. Autom. Sinica*, vol. 11, no. 3, pp. 690–697, Mar. 2024. (JCR:Q1,IF:19.2)
@@ -50,11 +50,11 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/CAA JAS 2025</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[网页]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
+-	`Y. Zhang`, Y. Wang, and Y. Cai, “Value Iteration-Based Distributed Adaptive Dynamic Programming for Multi-Player Differential Game With Incomplete Information,” *IEEE/CAA J. Autom. Sinica*, vol. 12, no. 2, pp. 436–447, 2025, (JCR:Q1,IF:19.2)
+[[网页]](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2024.124950) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
 
 </div>
 </div>
@@ -169,6 +169,7 @@ redirect_from:
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+
 
 
 
