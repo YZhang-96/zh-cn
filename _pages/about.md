@@ -41,7 +41,7 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/CAA JAS 2024</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/CAA JAS 2024</div><img src='images/ex1_v.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - `Y. Zhang`, L. Zhang, and Y. Cai, “Value iteration-based cooperative adaptive optimal control for multi-player differential games with incomplete information,” *IEEE/CAA J. Autom. Sinica*, vol. 11, no. 3, pp. 690–697, Mar. 2024. (JCR:Q1,IF:19.2)
@@ -50,7 +50,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/CAA JAS 2025</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/CAA JAS 2025</div><img src='images/parallel_new.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Y. Zhang`, Y. Wang, and Y. Cai, “Value Iteration-Based Distributed Adaptive Dynamic Programming for Multi-Player Differential Game With Incomplete Information,” *IEEE/CAA J. Autom. Sinica*, vol. 12, no. 2, pp. 436–447, 2025, (JCR:Q1,IF:19.2)
@@ -169,6 +169,7 @@ redirect_from:
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+
 
 
 
