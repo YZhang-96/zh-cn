@@ -25,8 +25,6 @@ redirect_from:
 - 多智能体系统
 - 微分博弈
 
-  
-
 
 <span class='anchor' id='-xl'></span>
 
@@ -83,6 +81,7 @@ redirect_from:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 
