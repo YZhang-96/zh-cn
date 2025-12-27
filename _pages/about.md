@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 我目前在 上海交通大学 人工智能学院 从事博士后工作，合作导师为严骏驰教授。
- <a href='https://scholar.google.com/citations?user=Uld_i-0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
+ <a href='https://scholar.google.com.hk/citations?user=Uld_i-0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
 
 我的研究领域包括：
 - 强化学习
@@ -81,6 +81,7 @@ redirect_from:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 
