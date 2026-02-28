@@ -35,15 +35,15 @@ redirect_from:
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📝 论文
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/CAA JAS 2024</div><img src='images/ex1_v.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2026</div><img src='images/ex1_v.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- `Y. Zhang`, L. Zhang, and Y. Cai, “Value iteration-based cooperative adaptive optimal control for multi-player differential games with incomplete information,” *IEEE/CAA J. Autom. Sinica*, vol. 11, no. 3, pp. 690–697, Mar. 2024. (JCR:Q1,IF:19.2)
-[[网页]](https://ieeexplore.ieee.org/abstract/document/10433377)
+- `Y. Zhang`, Z. Guo, L. Yao, and Y. Cai, “nverse reinforcement learning for recovering objectives in two-player asymmetric zero-sum games via non-equilibrium opponent behaviors,” *Neurocomputing*, vol. 673, 132827, Apr. 2026. (JCR:Q1,IF:19.2)
+[[网页]](https://www.sciencedirect.com/science/article/abs/pii/S0925231226002249)
 
 </div>
 </div>
@@ -54,7 +54,17 @@ redirect_from:
 -	`Y. Zhang`, Y. Wang, and Y. Cai, “Value Iteration-Based Distributed Adaptive Dynamic Programming for Multi-Player Differential Game With Incomplete Information,” *IEEE/CAA J. Autom. Sinica*, vol. 12, no. 2, pp. 436–447, 2025, (JCR:Q1,IF:19.2)
 [[网页]](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2024.124950) 
 
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/CAA JAS 2024</div><img src='images/ex1_v.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- `Y. Zhang`, L. Zhang, and Y. Cai, “Value iteration-based cooperative adaptive optimal control for multi-player differential games with incomplete information,” *IEEE/CAA J. Autom. Sinica*, vol. 11, no. 3, pp. 690–697, Mar. 2024. (JCR:Q1,IF:19.2)
+[[网页]](https://ieeexplore.ieee.org/abstract/document/10433377)
+
+</div>
+</div>
 
 ### 中文
 ---
@@ -81,6 +91,7 @@ redirect_from:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 
