@@ -16,8 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-我目前在 上海交通大学 人工智能学院 从事博士后工作，合作导师为严骏驰教授。
- <a href='https://scholar.google.com.hk/citations?user=Uld_i-0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
+我 <a href='https://scholar.google.com.hk/citations?user=Uld_i-0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>目前在 上海交通大学 人工智能学院 从事博士后工作，合作导师为严骏驰教授。
+
 
 我的研究领域包括：
 - 强化学习
@@ -29,9 +29,9 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2021.04 - 2025.12*, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/sjtu-logo.svg" width="23pt"></a> 上海交通大学 自动化与感知学院, 上海, 博士 
-- *2018.09 - 2021.03*, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/sjtu-logo.svg" width="20pt"></a> 上海交通大学 电子信息与电气工程学院, 上海, 硕士
-- *2014.09 - 2018.06*, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/sjtu-logo.svg" width="20pt"></a> 上海交通大学 电子信息与电气工程学院, 上海, 本科
+- *2021.04 - 2025.12*, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/sjtulogo.ico" width="23pt"></a> 上海交通大学 自动化与感知学院, 上海, 博士 
+- *2018.09 - 2021.03*, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/sjtulogo.ico" width="20pt"></a> 上海交通大学 电子信息与电气工程学院, 上海, 硕士
+- *2014.09 - 2018.06*, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/sjtulogo.ico" width="20pt"></a> 上海交通大学 电子信息与电气工程学院, 上海, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -91,6 +91,7 @@ redirect_from:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 
